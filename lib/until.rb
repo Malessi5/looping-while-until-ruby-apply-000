@@ -6,4 +6,3 @@ until levitation_force == 10
   puts "Wingardium Leviosa"
   leviation_force +=
 end
-end
